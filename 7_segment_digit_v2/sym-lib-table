@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "7_segment_digit")(type "KiCad")(uri "${KIPRJMOD}/Libraries/7_segment_digit.kicad_sym")(options "")(descr ""))
+  (lib (name "PCB_Lantern")(type "KiCad")(uri "C:/Users/Egill/Documents/KiCad/Projects/PCB_Lantern/Libraries/PCB_Lantern.kicad_sym")(options "")(descr ""))
+)
